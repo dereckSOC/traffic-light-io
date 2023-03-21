@@ -1,2 +1,3 @@
 # traffic-light-io
-Small Arduino Uno Project
+Arduino Uno Traffic Light Project
+Allows users to remotely control Traffic Lights through IoT.
